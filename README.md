@@ -9,7 +9,7 @@ I have been obsessed with web development for the past 1 year, and have built gr
 * 🌍  I'm based in Johannesburg, South Africa
 * 🖥️  See my portfolio at [Thendo](https://thendo18.github.io/Thendo-Makherana/)
 * ✉️  You can contact me at [thendomakherana@gmail.com](mailto:thendomakherana@gmail.com)
-* 🧠  I'm learning Flutter (Dart)
+* 🧠  I'm learning ReactJS
 
 <a href="https://www.github.com/thendo18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thendo18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
