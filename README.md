@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/thendo18?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/thendo18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="[https://www.linkedin.com/in/mpendulosibiya](https://www.linkedin.com/in/thendo-makherana-1b359919b)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mpendulo_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/thendo18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="[https://www.linkedin.com/in/mpendulosibiya](https://www.linkedin.com/in/thendo-makherana-1b359919b)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/thendo-makherana-1b359919b" target="_blank" rel="noreferrer"></a></p>
 
 ### Badges
 
