@@ -4,7 +4,7 @@ Hi 👋 My name is Thendo
 Software Developer
 ------------------
 
-I have been obsessed with web development for the past 1 year, and have built great application using Angular and ReactJS and continue to learn daily and build cool stuff.
+I have been obsessed with web development  and have built great application using Angular and I continue to learn daily and build cool stuff.
 
 * 🌍  I'm based in Johannesburg, South Africa
 * 🖥️  See my portfolio at [Thendo](https://thendo18.github.io/Thendo-Makherana/)
