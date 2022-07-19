@@ -7,7 +7,7 @@ Software Developer
 I have been obsessed with web development  and have built great application using Angular and I continue to learn daily and build cool stuff.
 
 * 🌍  I'm based in Johannesburg, South Africa
-* 🖥️  See my portfolio at [Thendo](thendomakherana.netlify.app)
+* 🖥️  See my portfolio at [Thendo](thendomakherana.netlify.app](https://thendomakherana.netlify.app/)
 * ✉️  You can contact me at [thendomakherana@gmail.com](mailto:thendomakherana@gmail.com)
 * 🧠  I'm learning ReactJS
 
