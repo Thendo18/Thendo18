@@ -51,7 +51,7 @@ src="https://img.shields.io/github/followers/thendo18?logo=github&style=for-the-
 ### Some of my hosted apps
 
 * FULL STACK Angular Crud : https://angular-frontend-muaxq2ncf-thendo18.vercel.app
-* Restaurant App using wordpress : https://shopping476302105.wordpress.com/
+* Munandi Restaurant App using wordpress : https://shopping476302105.wordpress.com/
 * XOXO game : https://thendo18.github.io/XOXO
 
 ### Support Me
