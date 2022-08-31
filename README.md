@@ -54,7 +54,7 @@ src="https://img.shields.io/github/followers/thendo18?logo=github&style=for-the-
 * Munandi Restaurant App using wordpress : https://shopping476302105.wordpress.com/
 * MytunerRadioSA : https://mytunerradiosa.vercel.app/
 * XOXO game : https://thendo18.github.io/XOXO
-ReactJs App am currently busy with : https://recipeist-thendo18.vercel.app 
+* ReactJs App am currently busy with : https://recipeist-thendo18.vercel.app 
 
 ### Support Me
 
