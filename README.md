@@ -59,3 +59,7 @@ src="https://img.shields.io/github/followers/thendo18?logo=github&style=for-the-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/thendomakhz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+### NB:
+Please note that most of my repos are private
