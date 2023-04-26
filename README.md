@@ -9,7 +9,7 @@ I am currently working as a  Frontend Developer working on mulitple projects usi
 * 🌍  I'm based in Johannesburg, South Africa
 * 🖥️  See my portfolio at [Thendo](https://thendomakherana.netlify.app/)
 * ✉️  You can contact me at [thendomakherana@gmail.com](mailto:thendomakherana@gmail.com)
-* 🧠  I'm learning ReactJS
+<!-- * 🧠  I'm learning ReactJS -->
 
 <a href="https://www.github.com/thendo18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thendo18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
