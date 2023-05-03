@@ -7,7 +7,7 @@ Software Developer
 I am currently working as a  Frontend Developer working on mulitple projects using ReactJS.On my free time i enjoy making small projects to enhance my skills.
 
 * 🌍  I'm based in Johannesburg, South Africa
-* 🖥️  See my portfolio at [Thendo](https://thendomakherana.netlify.app/)
+* 🖥️  See my portfolio at [Thendo](https://thendomakherana.netlify.app/)(last updated in 2022)
 * ✉️  You can contact me at [thendomakherana@gmail.com](mailto:thendomakherana@gmail.com)
 <!-- * 🧠  I'm learning ReactJS -->
 
