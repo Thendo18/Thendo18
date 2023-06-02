@@ -54,6 +54,7 @@ src="https://img.shields.io/github/followers/thendo18?logo=github&style=for-the-
 * MytunerRadioSA : https://mytunerradiosa.vercel.app/
 * XOXO game : https://thendo18.github.io/XOXO
 * React(NextJS) App am currently busy with : https://recipeist-thendo18.vercel.app 
+* Barcode scanner app for my work project am curretly busy with : https://scanner-mocha.vercel.app/
 
 ### Support Me
 
