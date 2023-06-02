@@ -47,7 +47,7 @@ src="https://img.shields.io/github/followers/thendo18?logo=github&style=for-the-
 
 
 
-### Some of my hosted apps
+### Some of my hosted apps (please note that most apps are not updated and the backend was hosted using heroku which is no longer free---to be updated soon)
 
 * FULL STACK Angular Crud : https://angular-frontend-muaxq2ncf-thendo18.vercel.app
 * Munandi Restaurant App using wordpress : https://shopping476302105.wordpress.com/
