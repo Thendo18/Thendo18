@@ -4,7 +4,9 @@ Hi 👋 My name is Thendo
 Software Developer
 ------------------
 
-I am currently working as a  Frontend Developer working on mulitple projects using ReactJS.On my free time i enjoy making small projects to enhance my skills.
+Working as a  Frontend Developer working on mulitple projects using ReactJS.On my free time i enjoy making small projects to enhance my skills.
+I'm learning C# 🙃
+
 
 * 🌍  I'm based in Johannesburg, South Africa
 * 🖥️  See my portfolio at [Thendo](https://thendomakherana.netlify.app/)(last updated in 2022)
