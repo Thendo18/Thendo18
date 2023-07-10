@@ -5,7 +5,8 @@ Software Developer
 ------------------
 
 Working as a  Frontend Developer working on mulitple projects using ReactJS.On my free time i enjoy making small projects to enhance my skills.
-* I'm learning C# 🙃
+
+I'm learning C# 🙃
 
 
 * 🌍  I'm based in Johannesburg, South Africa
