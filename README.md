@@ -10,7 +10,7 @@ I'm learning C# 🙃
 
 
 * 🌍  I'm based in Johannesburg, South Africa
-* 🖥️  See my portfolio at [Thendo](https://thendo-makherana.netlify.app/)
+* 🖥️  See my portfolio at [Thendo's portfolio](https://thendo-makherana.netlify.app/)
 * ✉️  You can contact me at [thendomakherana@gmail.com](mailto:thendomakherana@gmail.com)
 <!-- * 🧠  I'm learning ReactJS -->
 
