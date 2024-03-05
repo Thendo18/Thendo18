@@ -12,7 +12,6 @@ I'm learning C# 🙃
 * 🌍  I'm based in Johannesburg, South Africa
 * 🖥️  See my portfolio at [Thendo's portfolio](https://thendo-makherana.netlify.app/)
 * ✉️  You can contact me at [thendomakherana@gmail.com](mailto:thendomakherana@gmail.com)
-<!-- * 🧠  I'm learning ReactJS -->
 
 <a href="https://www.github.com/thendo18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thendo18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -35,6 +34,10 @@ src="https://img.shields.io/github/followers/thendo18?logo=github&style=for-the-
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2022%2F01%2FNET-Framework-Symbol.png&tbnid=rX6GOcELEif5aM&vet=12ahUKEwiiovu24tyEAxUkQaQEHXKXDuEQMygNegQIARBL..i&imgrefurl=https%3A%2F%2Flogos-world.net%2Fnet-framework-logo%2F&docid=iKHqLsVDO1admM&w=3840&h=2160&q=.net&ved=2ahUKEwiiovu24tyEAxUkQaQEHXKXDuEQMygNegQIARBL" target="_blank" rel="noreferrer">
+  <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" width="70" height="50" alt=".NET" />
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
