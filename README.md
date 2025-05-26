@@ -4,7 +4,7 @@ Hi 👋 My name is Thendo
 Software Engineer
 ------------------
 
-Working as a  Software Developer working on mulitple projects using ReactJS and .Net .On my free time i enjoy making small projects to enhance my skills.
+Working as a  Software Engineer working on mulitple projects using ReactJS and .Net .On my free time i enjoy making small projects
 
 * 🌍  I'm based in Pretoria, South Africa
 * 🖥️  See my portfolio at [Thendo's portfolio](https://thendo-makherana.netlify.app/)
