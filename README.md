@@ -53,13 +53,13 @@ src="https://img.shields.io/github/followers/thendo18?logo=github&style=for-the-
 ### Some of my hosted apps (please note that most apps are not updated and the backend was hosted using heroku which is no longer free---to be updated soon)
 
 * NZ with .Net and Reactjs : https://nz-kappa.vercel.app
-* Phone book : phone-boook.netlify.app
+* Barcode scanner app for my work project am curretly busy with : https://scanner-mocha.vercel.app
+* React(NextJS) App am currently busy with : https://recipeist-thendo18.vercel.app 
 * FULL STACK Angular Crud : https://angular-frontend-muaxq2ncf-thendo18.vercel.app
 * Munandi Restaurant App using wordpress : https://shopping476302105.wordpress.com
-* MytunerRadioSA : https://mytunerradiosa.vercel.app
 * XOXO game : https://thendo18.github.io/XOXO
-* React(NextJS) App am currently busy with : https://recipeist-thendo18.vercel.app 
-* Barcode scanner app for my work project am curretly busy with : https://scanner-mocha.vercel.app
+* Phone book : phone-boook.netlify.app
+* MytunerRadioSA : https://mytunerradiosa.vercel.app
 
 ### Support Me
 
@@ -67,4 +67,4 @@ src="https://img.shields.io/github/followers/thendo18?logo=github&style=for-the-
 
 
 ### NB:
-Please note that most of my repos are private
+Please note that most of my repos are also private
