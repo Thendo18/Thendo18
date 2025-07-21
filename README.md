@@ -51,7 +51,7 @@ src="https://img.shields.io/github/followers/thendo18?logo=github&style=for-the-
 
 
 ### Some of my hosted apps (please note that most apps are not updated and the backend was hosted using heroku which is no longer free---to be updated soon)
-
+* WeShop with Vuejs : https://weshop-6oma0ckpe-thendo18s-projects.vercel.app/
 * NZ with .Net and Reactjs : https://nz-kappa.vercel.app
 * Barcode scanner app for my work project am curretly busy with : https://scanner-mocha.vercel.app
 * React(NextJS) App am currently busy with : https://recipeist-thendo18.vercel.app 
