@@ -53,6 +53,7 @@ src="https://img.shields.io/github/followers/thendo18?logo=github&style=for-the-
 ### Some of my hosted apps (please note that most apps are not updated and the backend was hosted using heroku which is no longer free---to be updated soon)
 * Fuel-tracker-sa using ReactJs : https://fuel-tracker-sa.vercel.app/
 * WeShop with Vuejs : https://weshop-cars.vercel.app/
+* GMA using Blazer: https://gmapplicaton.netlify.app/
 * NZ with .Net and Reactjs : https://nz-kappa.vercel.app
 * Barcode scanner app for my work project am curretly busy with : https://scanner-mocha.vercel.app
 * React(NextJS) App am currently busy with : https://recipeist-thendo18.vercel.app 
